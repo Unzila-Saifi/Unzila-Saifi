@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unzila-saifi&label=Profile%20views&color=0e75b6&style=flat" alt="unzila-saifi" /> </p>
 
-- 🌱 I’m currently learning **Bachelor of Computer Application**
+- 🌱 I’m currently Graduated **Bachelor of Computer Application**
 
-- 💬 Ask me about **I have studied HTML|CSS**
+- 💬 Ask me about **I have studied HTML|CSS|JAVASCRIPT|NODE.JS|NODE:EXPRESS**
 
 - 📫 How to reach me **unzilasaifi75@gmail.com**
 
