@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently Graduated **Bachelor of Computer Application**
 
-- 💬 Ask me about **I have studied HTML|CSS|JAVASCRIPT|NODE.JS|NODE:EXPRESS**
+- 💬 Ask me about **I have studied HTML|CSS|JAVASCRIPT|NODE.JS|NODE:EXPRESS|SQL**
 
 - 📫 How to reach me **unzilasaifi75@gmail.com**
 
