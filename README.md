@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unzila-saifi&label=Profile%20views&color=0e75b6&style=flat" alt="unzila-saifi" /> </p>
 
-- 🌱 I’m currently Graduated **Bachelor of Computer Application**
+- 🌱 I’m  Graduated **Bachelor of Computer Application**
+- Now Pursuing MCA at Aligarh Muslim University
 
 - 💬 Ask me about **I have studied HTML|CSS|JAVASCRIPT|NODE.JS|NODE:EXPRESS|SQL**
 
